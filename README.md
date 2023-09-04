@@ -4,8 +4,7 @@
 This is a practical course designed for chemical engineers that want to learn the basics of AI. The course is very practical and will cover various topics, such as basic Python syntax, solving ODEs, data visualization, machine learning and deep learning models, natural language processing, image processing and explainability.
 
 ## Introduction
-the first two weeks of the course are shared among the courses in the sPyCE series and are introductory. 
-From week 3, this course dives into various AI methods. The aim of this course is to provide multiple use cases of how machine learning, natural language processing, and image processing can be applied in various chemical engineering applications. 
+This course covers the following topics: (i) basics of the  Python syntax, data pre-processing and analysis, (ii) fundamentals in machine learning, including supervised and unsupervised learning, classification and regression techniques, (iii) deep-dives into various sub-fields of artificial intelligence such as natural language processing (NLP), image processing, graph neural networks (GNN) and how they can be applied in chemical engineering, and (iv) explainable artificial intelligence. In this course, several algorithms are introduced and discussed through practical coding tutorials, in order to provide students with a solid knowledge on how to implement various models in different frameworks, such as scikit-learn, PyTorch and TensorFlow. 
 The course is composed by 7 weeks and is designed to be comprehensive and self-paced. 
 
 ## Why Python?
