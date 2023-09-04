@@ -1,0 +1,11 @@
+flow type;water flow / air flow;0 kg/h;100 kg/h;200 kg/h;300 kg/h
+small;15;1;2;3;3
+small;30;2;2;5;3
+small;50;2;3;6;5
+small;80;3;4;9;9
+small;100;3;5;13;13
+big;40;5;9;14;25
+big;50;7;14;22;39
+big;60;10;19;32;161
+big;70;13;27;46;224
+big;80;15;34;57;0
