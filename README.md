@@ -10,6 +10,9 @@ The course is composed by 7 weeks and is designed to be comprehensive and self-p
 ## Why Python?
 Python is one of the most popular languages in use today, thanks to its easy syntax, readability, libraries available and broad documentation. It is open-source, unlike other very popular programs such as MATLAB, which require a license. It has a big community, meaning that other people have probably already asked any possible question you might be having right now. Some forums where to ask and look for questions: StackOverflow (for practical questions about code), StackExchange (for more theoretical questions). It is the to-go language for data analysis and data science, both in academia and industry.
 
+## Other courses
+We are created other Python courses tailored for Chemical Engineers, such as [Chemical Reaction Engineering in Python](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python/tree/main).
+
 ## Contacts
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
 
