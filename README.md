@@ -10,6 +10,13 @@ The course is composed by 7 weeks and is designed to be comprehensive and self-p
 ## Why Python?
 Python is one of the most popular languages in use today, thanks to its easy syntax, readability, libraries available and broad documentation. It is open-source, unlike other very popular programs such as MATLAB, which require a license. It has a big community, meaning that other people have probably already asked any possible question you might be having right now. Some forums where to ask and look for questions: StackOverflow (for practical questions about code), StackExchange (for more theoretical questions). It is the to-go language for data analysis and data science, both in academia and industry.
 
+## Installation
+Here you can find instructions [how to install Python](https://github.com/FiammettaC/AI-for-Chemical-Engineers/blob/main/installation_instructions.docx).
+
+Or watch the [video tutorial](https://drive.google.com/file/d/1JD-xaiPfCqbrU8kEEFfMyCaTrEYbSyWb/view?usp=sharing).
+
+For more video tutorial, check this [folder](https://drive.google.com/drive/folders/1eIRsWmd1AKE1qkJ5ubGg0JA-cXQcsjtq?usp=sharing).
+
 ## Other courses
 We have created other Python courses tailored for Chemical Engineers, such as [Chemical Reaction Engineering in Python](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python).
 
