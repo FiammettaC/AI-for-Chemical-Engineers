@@ -7,6 +7,15 @@ This is a practical course designed for chemical engineers that want to learn th
 This course covers the following topics: (i) basics of the  Python syntax, data pre-processing and analysis, (ii) fundamentals in machine learning, including supervised and unsupervised learning, classification and regression techniques, (iii) deep-dives into various sub-fields of artificial intelligence such as natural language processing (NLP), image processing, graph neural networks (GNN) and how they can be applied in chemical engineering, and (iv) explainable artificial intelligence. In this course, several algorithms are introduced and discussed through practical coding tutorials, in order to provide students with a solid knowledge on how to implement various models in different frameworks, such as scikit-learn, PyTorch and TensorFlow. 
 The course is composed by 7 weeks and is designed to be comprehensive and self-paced. 
 
+### Course outline:
+- Week 1: Introduction to Python syntax, statements (loops, if conditions) and packaging
+- Week 2: Data structures (pandas, numpy, dictionaries and sets) and data visualization (matplotlib)
+- Week 3: Introduction to machine learning (ML), supervised and unsupervised techniques, classification and regression, deep learning models (feedforward, recurrent neural network) and simple hybrid model
+- Week 4: NLP (word and sentence embeddings, mol2vec and speech-to-text
+- Week 5: Image processing (pixel manipulation, filters, data augmentation, image segmentation and classification)
+- Week 6: GNNs for feature analysis and feature extraction using chemoinformatics packages, predicting physio-chemical properties of molecules using GNNs
+- Week 7: Explainability techniques (LIME and SHAP), model-agnostic models for explaining individual predictions of a "black box" model.
+
 ## :snake: Why Python?
 Python is one of the most popular languages in use today, thanks to its easy syntax, readability, libraries available and broad documentation. It is open-source, unlike other very popular programs such as MATLAB, which require a license. It has a big community, meaning that other people have probably already asked any possible question you might be having right now. Some forums where to ask and look for questions: StackOverflow (for practical questions about code), StackExchange (for more theoretical questions). It is the to-go language for data analysis and data science, both in academia and industry.
 
