@@ -29,6 +29,8 @@ For more video tutorial, check this [folder](https://drive.google.com/drive/fold
 ## Where do I start?
 You can start the course by looking at [this presentation](https://github.com/FiammettaC/AI-for-Chemical-Engineers/blob/main/introduction_to_machine_learning.pptx), where the basic concepts of machine learning, such as supervised and unsupervised learning, classification and regression, are introduced.
 
+You can also find presentations about [NLP](https://github.com/FiammettaC/AI-for-Chemical-Engineers/blob/main/week04/NLP.pptx) and [Image Processing](https://github.com/FiammettaC/AI-for-Chemical-Engineers/blob/main/week05/image_processing.pptx).
+
 ## Other courses
 We have created other Python courses tailored for Chemical Engineers, such as [Chemical Reaction Engineering in Python](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python).
 
