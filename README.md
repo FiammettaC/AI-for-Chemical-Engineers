@@ -16,6 +16,18 @@ The course is composed by 7 weeks and is designed to be comprehensive and self-p
 - Week 6: GNNs for feature analysis and feature extraction using chemoinformatics packages, predicting physio-chemical properties of molecules using GNNs
 - Week 7: Explainability techniques (LIME and SHAP), model-agnostic models for explaining individual predictions of a "black box" model.
 
+### Learning Objectives:
+- Master Python's syntax, and familiarize yourself with arithmetic operations, assignment, and compound statements.
+- Learn to reuse Python code efficiently through functions and classes.
+- Master the usage of main data structures used in Python, such as lists, generators, dictionaries, sets, DataFrames, and arrays.
+- Effectively visualize and analyze data.
+- Master the understanding of the difference between supervised and unsupervised learning.
+- Get familiar with various classification and regression techniques, and be able to apply multiple clustering methods.
+- Learn to pre-process, vectorize, and analyze text, apply NLP-inspired methods for property prediction, and implement a speech-to-text model.
+- Learn to pre-process and analyze images, master various data augmentation techniques, and implement image segmentation and classification models.
+- Effectively work with graph data, perform feature analysis and feature extraction using chemoinformatics packages, and successfully apply GNNs for predicting physiochemical properties of organic compounds.
+- Familiarize yourself with various explainability methods and learn how to explain individual predictions of a model.
+
 ## :snake: Why Python?
 Python is one of the most popular languages in use today, thanks to its easy syntax, readability, libraries available and broad documentation. It is open-source, unlike other very popular programs such as MATLAB, which require a license. It has a big community, meaning that other people have probably already asked any possible question you might be having right now. Some forums where to ask and look for questions: StackOverflow (for practical questions about code), StackExchange (for more theoretical questions). It is the to-go language for data analysis and data science, both in academia and industry.
 
